@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.drogarede.controller","l":"controller"},{"p":"com.drogarede.model","l":"DAO"},{"p":"com.drogarede.model","l":"JavaBeans"}];updateSearchResults();
